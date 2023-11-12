@@ -1,0 +1,24 @@
+Questions regarding Uploaded Image Classification:
+
+1. Did the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed? If not, report the differences in the classifications.
+
+Answer: Only Resnet and VGG successfuly classified Dog_01.jpg to be "pitbull", which is correct. But Alexnet classified it as "vizsla, hungarian pointer", which is wrong.
+
+
+2. Did each of the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed of dog as that model architecture classified Dog_02.jpg? If not, report the differences in the classifications.
+
+Answer: Yes, all the three model architectures successfully classified both Dog_01.jpg and Dog_02.jpg to be the same breed. (irrespective, if the breed was wrong or right).
+
+
+3. Did the three model architectures correctly classify Animal_Name_01.jpg and Object_Name_01.jpg to not be dogs? If not, report the misclassifications.
+
+Answer: Yes, all the three models correctly classified the animal and Object image to not be dogs.
+
+
+4. Based upon your answers for questions 1. - 3. above, select the model architecture that you feel did the best at classifying the four uploaded images. Describe why you selected that model architecture as the best on uploaded image classification.
+
+Answer: Based upon my observations of the results from the three models and my answers for the 3 questions above, I find VGG to be the best performing model in the uploaded image classification.
+Reasons for it to be the best:
+1. It correctly classified Dog breeds, where Alexnet failed.
+2. It correctly classified the object image to be of Towel, which is correct. Resnet failed in this case.
+3. Considering above cases VGG turns out to be the most effective in classifying objects, dogs, animal, correctly.
