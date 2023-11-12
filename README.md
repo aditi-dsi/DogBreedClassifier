@@ -8,7 +8,7 @@
 
 ## How to take model inference for your own images?
 1. Move inside 'uploaded_images' directory
-2. Delete(or keep) previous files and uploaded new images. <br/> (Note: Image should be Sqaure in shape, i.e. their length and breadth should be similar px.)
+2. Delete(or keep) previous files and upload new images. <br/> (Note: Image should be Sqaure in shape, i.e. their length and breadth should be similar px.)
 3. Open the terminal and run the below script :
    
    ```
