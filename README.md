@@ -30,6 +30,8 @@ Try experimenting with variety of images such as :
 
 Results are clearly shows that VGG shines out.. 🎉🌟
 
+For a more detailed version of the results, check out the respective files for each model in the following format : <model_name>_pet-images.txt & <model_name>_uploaded-images.txt
+
 <hr/>
 <br/>
 <br/>
