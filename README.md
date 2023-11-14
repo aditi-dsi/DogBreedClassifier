@@ -18,7 +18,7 @@
    ```
 <hr/>
 
-## Suggestions to get the most of it:
+## Suggestions to get the most out of it:
 Try experimenting with variety of images such as :
 1. animals other than dog,
 2. any random object,
