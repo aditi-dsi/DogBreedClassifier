@@ -28,7 +28,7 @@ Try experimenting with variety of images such as :
 ## Comparison results among AlexNet, ResNet, VGG:
 ![image](https://github.com/aditi-dsi/DogBreedClassifier/assets/123075271/293c2047-c4ad-49eb-94ac-e30b1c40268d)
 
-Results are clearly shows that VGG shines out.. 🎉🌟
+Results clearly shows that VGG shines out.. 🎉🌟
 
 For a more detailed version of the results, check out the respective files for each model in the following format : <model_name>_pet-images.txt & <model_name>_uploaded-images.txt
 
